@@ -103,7 +103,7 @@ else:
         {
             'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
         },
-]
+    ]
 
 
 # Internationalization
